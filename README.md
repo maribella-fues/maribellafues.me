@@ -1,3 +1,7 @@
 ## My Portfolio
 
-Website: 
+Website: https://maribella-fues.github.io/maribellafues.me/
+
+![personal website](personal website.png)
+
+My personal website tells you all about me! It includes my experience, relevant courses I have taken, and projects that I have worked on. I created it by creating an HTML script for the website.
